@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4580574070",
+    "project_id": "login-and-signup-firebas-45b27",
+    "storage_bucket": "login-and-signup-firebas-45b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4580574070:android:05e030de8f5ee043efb057",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4580574070-0gfsvd0222rpnhh9cekgog35qn8g3n4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRto6pLk0hVYsU7Nu--_EOOetHPMbyc54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4580574070-0gfsvd0222rpnhh9cekgog35qn8g3n4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
